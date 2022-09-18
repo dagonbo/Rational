@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RationalTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-18T08:58:35" hostname="DESKTOP-2UNS6IT" time="0.003">
+  <properties/>
+  <testcase name="testAdd" classname="RationalTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
